@@ -1,0 +1,23 @@
+{
+  "name": "v-weui",
+  "version": "1.0.0",
+  "description": "A Weui Toolkit build on Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penghk/v-weui.git"
+  },
+  "keywords": [
+    "vue",
+    "weui"
+  ],
+  "author": "Johnny.Peng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penghk/v-weui/issues"
+  },
+  "homepage": "https://github.com/penghk/v-weui#readme"
+}
